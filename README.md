@@ -1,2 +1,50 @@
-# qa-manual-testing-tripleten
-Manual testing projects from TripleTen Bootcamp: Test cases, mind maps, bug reports &amp; exploratory sessions.
+# qa-manual-and-automated-testing-tripleten
+# Hey, it's Jerry again! 👋  
+### My full TripleTen Bootcamp journey – from zero to bug-slaying hero
+
+Welcome to the place where I keep **all 8 sprints + final project** I built during my TripleTen QA Bootcamp.  
+This is the raw evolution:  
+- Sprint 1 → “wait, what is a test case?”  
+- Sprint 5 → mind-maps that look like crime-scene boards  
+- Final project → full Selenium/Pytest automation on a custom web app  
+
+I learned how to hunt bugs the hard way (manual era), then how to scale them with code (automation era).  
+If you're a junior QA feeling lost, scroll through – you’ll see the exact same mistakes I made and how I fixed them.  
+If you're a recruiter, here’s proof I can plan, explore, report, and automate like someone who’s been doing this for years (but with fresh energy).
+
+### The 8 Sprints + Final Project (click & explore)
+
+| Sprint | What I learned | Link |
+|--------|----------------|------|
+| Sprint 1 | Testing basics + my first shaky mind-map | [Open Sheet](https://docs.google.com/spreadsheets/d/1KPafA5ZHItxP80Mbjl9TKRicDUOUTIHF/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 2 | Exploratory “click everything” chaos | [Open Doc](https://docs.google.com/document/d/1zj6C-x96sRbacMWji5LKe5Xt5x4aHsR7/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 3 | Boundary values & edge cases that bite | [Open Sheet](https://docs.google.com/spreadsheets/d/1BzZIlSn3jj_lyQx39OxxE2208sliRyL_/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 4 | Usability flows – thinking like a real user | [Open Sheet](https://docs.google.com/spreadsheets/d/1pJVQAFVZZ2gSDe_6pHELWJBMNB-JWpTb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 5 | Full test plans + bug reports that actually get fixed | [Open Sheet](https://docs.google.com/spreadsheets/d/1t9DMQc0Iksyskkf8ibDjrRfDLBIwgSFb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 6 | Reporting like a pro (devs started thanking me) | [Open Doc](https://docs.google.com/document/d/1gTm3REueNNHZCfa-tdisLs1CQGSzVMzV/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 7 | Hybrid prep – manual → automation bridge | [Coming soon – English version dropping] |
+| Sprint 8 | First automated scripts (still manual soul) | [Coming soon – stay tuned] |
+| Final Project | Complete E2E automation on a custom web app with Selenium/Pytest | [GitHub Repo – live & running](...) |
+
+*Sheets/Docs are still in Spanish (English versions dropping week by week – DM me if you need one ASAP!)*
+
+### Quick tips I wish someone told me on day 1
+1. Read the requirements twice – your future self will thank you.  
+2. Think like the laziest user on earth. That’s where the best bugs hide.  
+3. Plan everything on paper first – memory lies.  
+4. Bug reports: “Steps to reproduce” = love letters to developers.  
+5. Automation is cool, but manual eyes catch the soul of the app.
+
+Got questions? Want to roast my early sprints? Need a collab for a bug bash?  
+**DM me** – I answer everyone, and I love direct feedback 😉
+
+### My live automation arsenal
+- Selenium + Pytest beast → https://github.com/jerryfinol17/Automated-testing-project  
+- Cypress TodoMVC slayer → https://github.com/jerryfinol17/qa-automation-cypress  
+- API playground → https://github.com/jerryfinol17/qa-automation-api  
+- Main portfolio (159+ views and counting) → https://github.com/jerryfinol17
+
+#QAJourney #ManualTesting #Automation #TripleTenGrad #BugHunter #OpenToWork
+
+See you in the bug jungle,  
+Jerry ✨
