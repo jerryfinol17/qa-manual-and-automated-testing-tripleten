@@ -23,7 +23,7 @@ If you're a recruiter, here’s proof I can plan, explore, report, and automate 
 | Sprint 5 | Full test plans + bug reports that actually get fixed | [Open Sheet](https://docs.google.com/spreadsheets/d/1t9DMQc0Iksyskkf8ibDjrRfDLBIwgSFb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 6 | Reporting like a pro (devs started thanking me) | [Open Doc](https://docs.google.com/document/d/1gTm3REueNNHZCfa-tdisLs1CQGSzVMzV/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 7 | Hybrid prep – manual → automation bridge | [Coming soon – English version dropping] |
-| Sprint 8 | First automated scripts (still manual soul) | [Github Repo] (https://github.com/jerryfinol17/qa-project-Urban-Grocers-app-es.git) |
+| Sprint 8 | First automated scripts (still manual soul) | [Github Repo](https://github.com/jerryfinol17/qa-project-Urban-Grocers-app-es.git) |
 | Final Project | Complete E2E automation on a custom web app with Selenium/Pytest | [GitHub Repo ](https://github.com/jerryfinol17/qa-project-Urban-Routes-es-main.git) |
 
 *Sheets/Docs are still in Spanish (English versions dropping week by week – DM me if you need one ASAP!)*
