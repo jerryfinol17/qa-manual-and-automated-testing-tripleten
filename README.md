@@ -6,7 +6,7 @@ Welcome to the place where I keep **all 8 sprints + final project** I built duri
 This is the raw evolution:  
 - Sprint 1 → “wait, what is a test case?”  
 - Sprint 2 → mind-maps that look like crime-scene boards  
-- Final project → full Selenium/Pytest automation on a custom web app  
+- Final project →  Comprehensive test development  
 
 I learned how to hunt bugs the hard way (manual era), then how to scale them with code (automation era).  
 If you're a junior QA feeling lost, scroll through – you’ll see the exact same mistakes I made and how I fixed them.  
