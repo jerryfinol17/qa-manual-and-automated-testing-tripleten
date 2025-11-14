@@ -5,7 +5,7 @@
 Welcome to the place where I keep **all 8 sprints + final project** I built during my TripleTen QA Bootcamp.  
 This is the raw evolution:  
 - Sprint 1 → “wait, what is a test case?”  
-- Sprint 5 → mind-maps that look like crime-scene boards  
+- Sprint 2 → mind-maps that look like crime-scene boards  
 - Final project → full Selenium/Pytest automation on a custom web app  
 
 I learned how to hunt bugs the hard way (manual era), then how to scale them with code (automation era).  
