@@ -17,7 +17,7 @@ If you're a recruiter, here’s proof I can plan, explore, report, and automate 
 | Sprint | What I learned | Link |
 |--------|----------------|------|
 | Sprint 1 | Testing basics | [Open Sheet](https://docs.google.com/spreadsheets/d/1KPafA5ZHItxP80Mbjl9TKRicDUOUTIHF/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
-| Sprint 2 | Exploratory “click everything” chaos | [Open Doc](https://docs.google.com/document/d/1zj6C-x96sRbacMWji5LKe5Xt5x4aHsR7/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 2 | First use of test planning tools | [Open Doc](https://docs.google.com/document/d/1zj6C-x96sRbacMWji5LKe5Xt5x4aHsR7/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 3 | Boundary values & edge cases that bite | [Open Sheet](https://docs.google.com/spreadsheets/d/1BzZIlSn3jj_lyQx39OxxE2208sliRyL_/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 4 | Usability flows – thinking like a real user | [Open Sheet](https://docs.google.com/spreadsheets/d/1pJVQAFVZZ2gSDe_6pHELWJBMNB-JWpTb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 5 | Full test plans + bug reports that actually get fixed | [Open Sheet](https://docs.google.com/spreadsheets/d/1t9DMQc0Iksyskkf8ibDjrRfDLBIwgSFb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
