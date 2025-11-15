@@ -21,7 +21,7 @@ If you're a recruiter, here’s proof I can plan, explore, report, and automate 
 | Sprint 3 | Boundary values & edge cases that bite | [Open Sheet](https://docs.google.com/spreadsheets/d/1BzZIlSn3jj_lyQx39OxxE2208sliRyL_/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 4 | first tests in api | [Open Sheet](https://docs.google.com/spreadsheets/d/1pJVQAFVZZ2gSDe_6pHELWJBMNB-JWpTb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 5 | Mobile application testing | [Open Sheet](https://docs.google.com/spreadsheets/d/1t9DMQc0Iksyskkf8ibDjrRfDLBIwgSFb/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
-| Sprint 6 | Reporting like a pro (devs started thanking me) | [Open Doc](https://docs.google.com/document/d/1gTm3REueNNHZCfa-tdisLs1CQGSzVMzV/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
+| Sprint 6 | Data collection in SQL | [Open Doc](https://docs.google.com/document/d/1gTm3REueNNHZCfa-tdisLs1CQGSzVMzV/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 | Sprint 7 | First automated scripts (still manual soul trying to work with codes) | [Github Repo](https://github.com/jerryfinol17/qa-project-Urban-Grocers-app-es.git) |
 | Sprint 8 | Complete Selenium Automated test| [GitHub Repo](https://github.com/jerryfinol17/qa-project-Urban-Routes-es-main.git) |
 | Final Proyect|  Comprehensive test development: from planning and design, to functionality and API integration.| [Open Sheet](https://docs.google.com/document/d/1AHZAfm22N9MImatMN6h0H8Z03Ta1uaYC/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
