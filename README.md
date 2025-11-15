@@ -5,7 +5,7 @@
 Welcome to the place where I keep **all 8 sprints + final project** I built during my TripleTen QA Bootcamp.  
 This is the raw evolution:  
 - Sprint 1 → “wait, what is a test case?”  
-- Sprint 2 → mind-maps that look like crime-scene boards  
+- Sprint 5 →  Mobile application testing that's run like a river 
 - Final project →  Comprehensive test development  
 
 I learned how to hunt bugs the hard way (manual era), then how to scale them with code (automation era).  
