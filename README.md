@@ -26,8 +26,6 @@ If you're a recruiter, here’s proof I can plan, explore, report, and automate 
 | Sprint 8 | Complete Selenium Automated test| [GitHub Repo](https://github.com/jerryfinol17/qa-project-Urban-Routes-es-main.git) |
 | Final Proyect|  Comprehensive test development: from planning and design, to functionality and API integration.| [Open Sheet](https://docs.google.com/document/d/1AHZAfm22N9MImatMN6h0H8Z03Ta1uaYC/edit?usp=sharing&ouid=108513339171332410093&rtpof=true&sd=true) |
 
-*Sheets/Docs are still in Spanish (English versions dropping week by week – DM me if you need one ASAP!)*
-
 ### Quick tips I wish someone told me on day 1
 1. Read the requirements twice – your future self will thank you.  
 2. Think like the laziest user on earth. That’s where the best bugs hide.  
